@@ -1,0 +1,1854 @@
+{
+"categories": [
+{
+"name": "Mas vistos",
+"channels": [
+{
+"name": "Telefe | Argentina",
+"id": 874,
+"logo": "http://i.tvcluboficial.com/telefe.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "Los Simpson 24/7",
+"id": 635,
+"logo": "http://i.tvcluboficial.com/lossimpsons.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "Canal de las Estrellas HD",
+"id": 118,
+"logo": "http://i.tvcluboficial.com/mx_lasestrellas.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "Cine 2025",
+"id": 1159,
+"logo": "http://i.tvcluboficial.com/cine247.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "Rick y Morty",
+"id": 1168,
+"logo": "http://i.tvcluboficial.com/rickymorty.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "Cine 2024",
+"id": 1099,
+"logo": "http://i.tvcluboficial.com/cine247.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "Distrito Comedia",
+"id": 293,
+"logo": "http://i.tvcluboficial.com/distritocomedia.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "El Trece (13) Argentina",
+"id": 362,
+"logo": "http://i.tvcluboficial.com/el13argentina.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "El Chavo del 8 24/7",
+"id": 344,
+"logo": "http://i.tvcluboficial.com/elchavodel8.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "Tyc Sports",
+"id": 974,
+"logo": "http://i.tvcluboficial.com/tycsports.png",
+"actividad": "RepromagmatvActivity"
+}
+]
+},
+{
+"name": "Deportes",
+"channels": [
+{
+"name": "TyC Sports HD",
+"id": 1143,
+"logo": "http://i.tvcluboficial.com/tycsports.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "ESPN 1 | Argentina",
+"id": 1111,
+"logo": "http://i.tvcluboficial.com/espn.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "ESPN 1 | Sur",
+"id": 368,
+"logo": "http://i.tvcluboficial.com/espn.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "TNT Sports | Argentina",
+"id": 934,
+"logo": "http://i.tvcluboficial.com/tntsports.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "ESPN 5 HD",
+"id": 1104,
+"logo": "http://i.tvcluboficial.com/espn.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "ESPN Premium HD",
+"id": 408,
+"logo": "http://i.tvcluboficial.com/espnpremium.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "ESPN Deportes",
+"id": 1165,
+"logo": "http://i.tvcluboficial.com/espn.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "Liga de Campeones",
+"id": 616,
+"logo": "http://i.tvcluboficial.com/ligadecampeones.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "ESPN 6 HD",
+"id": 1105,
+"logo": "http://i.tvcluboficial.com/espn.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "Evento",
+"id": 325,
+"logo": "http://i.tvcluboficial.com/espn.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "ESPN 2 | Mexico",
+"id": 378,
+"logo": "http://i.tvcluboficial.com/espn2.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "Fox Deportes",
+"id": 1114,
+"logo": "http://i.tvcluboficial.com/foxdeportes.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "TUDN ",
+"id": 952,
+"logo": "http://i.tvcluboficial.com/tudn.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "Win Sports +",
+"id": 1041,
+"logo": "http://i.tvcluboficial.com/winsportsplus.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "ESPN 3 | Sur",
+"id": 1127,
+"logo": "http://i.tvcluboficial.com/espn3.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "Win Sports",
+"id": 1039,
+"logo": "http://i.tvcluboficial.com/winsports.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "ESPN 1 | Mexico",
+"id": 401,
+"logo": "http://i.tvcluboficial.com/espn.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "TUDN | Usa",
+"id": 956,
+"logo": "http://i.tvcluboficial.com/tudn.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "DAZN HD",
+"id": 1148,
+"logo": "http://i.tvcluboficial.com/dazn.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "DSports 2 HD",
+"id": 317,
+"logo": "http://i.tvcluboficial.com/directvsports2.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "ESPN 3 | Mexico",
+"id": 1110,
+"logo": "http://i.tvcluboficial.com/espn3.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "NBA",
+"id": 710,
+"logo": "http://i.tvcluboficial.com/nba.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "TUDN HD | Usa",
+"id": 957,
+"logo": "http://i.tvcluboficial.com/tudn.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "Fox Sports Premium HD",
+"id": 463,
+"logo": "http://i.tvcluboficial.com/foxsportspremium.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "DSports",
+"id": 312,
+"logo": "http://i.tvcluboficial.com/directvsports.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "SKY Sports Premier HD",
+"id": 811,
+"logo": "http://i.tvcluboficial.com/skysports.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "America TV | Peru op. 2",
+"id": 1115,
+"logo": "http://i.tvcluboficial.com/americaperu.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "Formula 1 TV (F1) HD",
+"id": 427,
+"logo": "http://i.tvcluboficial.com/f1.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "DSports 2",
+"id": 315,
+"logo": "http://i.tvcluboficial.com/directvsports2.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "Fox Sports Sur",
+"id": 465,
+"logo": "http://i.tvcluboficial.com/foxsports.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "Movistar Deportes 2 HD",
+"id": 664,
+"logo": "http://i.tvcluboficial.com/movistar_deportes2.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "Movistar Deportes HD",
+"id": 665,
+"logo": "http://i.tvcluboficial.com/movistar_deportes.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "Canal+ Toros",
+"id": 121,
+"logo": "http://i.tvcluboficial.com/toros.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "Sky Sports LaLiga",
+"id": 1079,
+"logo": "http://i.tvcluboficial.com/skysports.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "Sky Sports Bundesliga",
+"id": 1124,
+"logo": "http://i.tvcluboficial.com/skysports.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "Fox Sports 2 | Mexico",
+"id": 441,
+"logo": "http://i.tvcluboficial.com/foxsports2.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "ESPN Plus",
+"id": 404,
+"logo": "http://i.tvcluboficial.com/espnplus.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "TNT Sports | Chile",
+"id": 938,
+"logo": "http://i.tvcluboficial.com/tntsports.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "Fox Sports 1 | Sur",
+"id": 435,
+"logo": "http://i.tvcluboficial.com/foxsportssur.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "Gol TV | España",
+"id": 1125,
+"logo": "http://i.tvcluboficial.com/goltv.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "Golf Channel HD",
+"id": 504,
+"logo": "http://i.tvcluboficial.com/golfchannel.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "Movistar LaLiga",
+"id": 1100,
+"logo": "http://i.tvcluboficial.com/movistar_laliga.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "ESPN 7 HD",
+"id": 1106,
+"logo": "http://i.tvcluboficial.com/espn.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "DAZN 2",
+"id": 1126,
+"logo": "http://i.tvcluboficial.com/dazn.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "ESPN 1 | Mexico Centro",
+"id": 1112,
+"logo": "http://i.tvcluboficial.com/espn.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "BeinSports",
+"id": 88,
+"logo": "http://i.tvcluboficial.com/beinsports.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "Movistar Deportes | Peru",
+"id": 666,
+"logo": "http://i.tvcluboficial.com/movistar_deportes.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "DSports HD",
+"id": 324,
+"logo": "http://i.tvcluboficial.com/directvsports.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "Claro Sports",
+"id": 201,
+"logo": "http://i.tvcluboficial.com/clarosports.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "DSports HD op. 2",
+"id": 1144,
+"logo": "http://i.tvcluboficial.com/directvsports.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "TigoSports Paraguay",
+"id": 906,
+"logo": "http://i.tvcluboficial.com/tigosports.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "DSports +",
+"id": 314,
+"logo": "http://i.tvcluboficial.com/directvplus.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "Eventos 2",
+"id": 1131,
+"logo": "http://i.tvcluboficial.com/espn2.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "Gol TV Ecuador",
+"id": 1060,
+"logo": "http://i.tvcluboficial.com/golperu.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "Fox Sports Sur 2",
+"id": 467,
+"logo": "http://i.tvcluboficial.com/foxsports2.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "Vix Deportes",
+"id": 1116,
+"logo": "http://i.tvcluboficial.com/vix.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "Fox Sports 2 | Sur",
+"id": 436,
+"logo": "http://i.tvcluboficial.com/foxsports2sur.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "Vix Deportes 7",
+"id": 1138,
+"logo": "http://i.tvcluboficial.com/vix.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "Fox Sports 3 | Sur",
+"id": 468,
+"logo": "http://i.tvcluboficial.com/foxsports3sur.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "Fox Sports 3 | Mexico",
+"id": 448,
+"logo": "http://i.tvcluboficial.com/foxsports3.png",
+"actividad": "RepromagmatvActivity"
+}
+]
+},
+{
+"name": "24/7",
+"channels": [
+{
+"name": "Dragon Ball Z 24/7",
+"id": 307,
+"logo": "http://i.tvcluboficial.com/dragonballz.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "Two And a Half Men 24/7",
+"id": 973,
+"logo": "http://i.tvcluboficial.com/twoandhalfmen.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "Game of Thrones 24/7",
+"id": 484,
+"logo": "http://i.tvcluboficial.com/gameofthrones.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "Bob Esponja 24/7",
+"id": 96,
+"logo": "http://i.tvcluboficial.com/bobesponja.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "Malcolm HD 24/7",
+"id": 641,
+"logo": "http://i.tvcluboficial.com/malcolm.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "Tom y Jerry 24/7",
+"id": 940,
+"logo": "http://i.tvcluboficial.com/tomyjerry.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "Looney Tunes 24/7",
+"id": 618,
+"logo": "http://i.tvcluboficial.com/looneytunes.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "Friends 24/7",
+"id": 470,
+"logo": "http://i.tvcluboficial.com/247.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "Chapulin Colorado 24/7",
+"id": 152,
+"logo": "http://i.tvcluboficial.com/chapulincolorado.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "Dragon Ball GT 24/7",
+"id": 303,
+"logo": "http://i.tvcluboficial.com/dragonballgt.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "Naruto 24/7",
+"id": 702,
+"logo": "http://i.tvcluboficial.com/naruto.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "Dragon Ball 24/7",
+"id": 301,
+"logo": "http://i.tvcluboficial.com/dragonball.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "Pokemon 24/7",
+"id": 773,
+"logo": "http://i.tvcluboficial.com/pokemon.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "La Pantera Rosa 24/7",
+"id": 597,
+"logo": "http://i.tvcluboficial.com/lapanterarosa.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "Malcolm 24/7",
+"id": 640,
+"logo": "http://i.tvcluboficial.com/malcolm.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "Padre de Familia 24/7",
+"id": 747,
+"logo": "http://i.tvcluboficial.com/padredefamilia.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "Coraje el Perro Cobarde 24/7",
+"id": 223,
+"logo": "http://i.tvcluboficial.com/coraje.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "Scooby Doo 24/7",
+"id": 804,
+"logo": "http://i.tvcluboficial.com/scoobydoo.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "Los Picapiedra 24/7",
+"id": 625,
+"logo": "http://i.tvcluboficial.com/lospicapiedra.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "Yu-Gi-Oh! 24/7",
+"id": 1052,
+"logo": "http://i.tvcluboficial.com/yugioh.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "La Casa de los Dibujos 24/7",
+"id": 590,
+"logo": "http://i.tvcluboficial.com/247.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "One Punch Man 24/7",
+"id": 744,
+"logo": "http://i.tvcluboficial.com/onepunchman.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "Ranma 1/2 24/7",
+"id": 782,
+"logo": "http://i.tvcluboficial.com/ranma.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "Chespirito 24/7",
+"id": 153,
+"logo": "http://i.tvcluboficial.com/chespirito.jpg",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "Los Pinguinos de Madagascar 24/7",
+"id": 626,
+"logo": "http://i.tvcluboficial.com/lospinguinosdemadagascar.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "Smallville 24/7",
+"id": 812,
+"logo": "http://i.tvcluboficial.com/smallville.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "Los Chicos del Barrio 24/7",
+"id": 622,
+"logo": "http://i.tvcluboficial.com/247.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "Las Chicas Super Poderosas 24/7",
+"id": 608,
+"logo": "http://i.tvcluboficial.com/247.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "El Gallo Claudio 24/7",
+"id": 347,
+"logo": "http://i.tvcluboficial.com/elgalloclaudio.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "Sakura Card Captor 24/7",
+"id": 800,
+"logo": "http://i.tvcluboficial.com/sakura.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "Doraemon 24/7",
+"id": 297,
+"logo": "http://i.tvcluboficial.com/doraemon.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "Dinosaurios 24/7",
+"id": 244,
+"logo": "http://i.tvcluboficial.com/dinosaurios.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "El Principe del Rap 24/7",
+"id": 357,
+"logo": "http://i.tvcluboficial.com/elprincipedelrap.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "Animaniacs 24/7",
+"id": 43,
+"logo": "http://i.tvcluboficial.com/animaniacs.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "TrollHunters 24/7",
+"id": 945,
+"logo": "http://i.tvcluboficial.com/trollhunters.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "Elementary 24/7",
+"id": 363,
+"logo": "http://i.tvcluboficial.com/247.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "Rugrats 24/7",
+"id": 797,
+"logo": "http://i.tvcluboficial.com/247.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "Yogui 24/7",
+"id": 1051,
+"logo": "http://i.tvcluboficial.com/247.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "Rugrats Crecidos 24/7",
+"id": 798,
+"logo": "http://i.tvcluboficial.com/247.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "Los Pitufos 24/7",
+"id": 627,
+"logo": "http://i.tvcluboficial.com/lospitufos.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "Pinky y Cerebro 24/7",
+"id": 771,
+"logo": "http://i.tvcluboficial.com/pinkyycerebro.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "Hey Arnold 24/7",
+"id": 551,
+"logo": "http://i.tvcluboficial.com/heyarnold.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "Las Aventuras de Tom Sawyer 24/7",
+"id": 607,
+"logo": "http://i.tvcluboficial.com/247.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "Kenan y Kel",
+"id": 1169,
+"logo": "http://i.tvcluboficial.com/kenanykel.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "Nosotros los Guapos 24/7",
+"id": 739,
+"logo": "http://i.tvcluboficial.com/247.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "Caso Cerrado 24/7",
+"id": 138,
+"logo": "http://i.tvcluboficial.com/casocerrado.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "Samurai X 24/7",
+"id": 802,
+"logo": "http://i.tvcluboficial.com/samuraix.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "Peppa Pig 24/7",
+"id": 760,
+"logo": "http://i.tvcluboficial.com/peppapig.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "Doug 24/7",
+"id": 298,
+"logo": "http://i.tvcluboficial.com/247.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "El Pato Darkwing 24/7",
+"id": 356,
+"logo": "http://i.tvcluboficial.com/247.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "Cantinflas 24/7",
+"id": 123,
+"logo": "http://i.tvcluboficial.com/cantinflas.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "Duelo Xiaolin 24/7",
+"id": 330,
+"logo": "http://i.tvcluboficial.com/247.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "Hercules 24/7",
+"id": 550,
+"logo": "http://i.tvcluboficial.com/247.png",
+"actividad": "RepromagmatvActivity"
+}
+]
+},
+{
+"name": "Entretenimiento",
+"channels": [
+{
+"name": "Telefe | USA",
+"id": 1166,
+"logo": "http://i.tvcluboficial.com/telefe.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "Tlnovelas",
+"id": 912,
+"logo": "http://i.tvcluboficial.com/tlnovelas.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "AXN",
+"id": 54,
+"logo": "http://i.tvcluboficial.com/axn.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "Telemundo",
+"id": 888,
+"logo": "http://i.tvcluboficial.com/telemundo.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "El Gourmet",
+"id": 349,
+"logo": "http://i.tvcluboficial.com/elgourmet.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "TNT Series",
+"id": 929,
+"logo": "http://i.tvcluboficial.com/tntseries.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "Universal Premiere HD",
+"id": 1003,
+"logo": "http://i.tvcluboficial.com/universal_premier.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "Warner Channel",
+"id": 1032,
+"logo": "http://i.tvcluboficial.com/warnerchannel.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "Hola TV",
+"id": 564,
+"logo": "http://i.tvcluboficial.com/hola.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "Caracol Internacional",
+"id": 127,
+"logo": "http://i.tvcluboficial.com/caracol.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "Food Network",
+"id": 424,
+"logo": "http://i.tvcluboficial.com/foodnetwork.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "FX",
+"id": 474,
+"logo": "http://i.tvcluboficial.com/fx.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": " ATV: Novelas Turcas",
+"id": 1120,
+"logo": "http://i.tvcluboficial.com/atv.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "Comedy Central",
+"id": 216,
+"logo": "http://i.tvcluboficial.com/comedycentral.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "Universal Crime HD",
+"id": 996,
+"logo": "http://i.tvcluboficial.com/universal_crime.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "UniMas",
+"id": 982,
+"logo": "http://i.tvcluboficial.com/unimas.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "E!",
+"id": 333,
+"logo": "http://i.tvcluboficial.com/e.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "Telemundo Internacional",
+"id": 1108,
+"logo": "http://i.tvcluboficial.com/telemundo.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "Fox (ES) HD",
+"id": 430,
+"logo": "http://i.tvcluboficial.com/fox.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "Star Channel",
+"id": 832,
+"logo": "http://i.tvcluboficial.com/star.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "AMC",
+"id": 29,
+"logo": "http://i.tvcluboficial.com/amc.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "Universal Comedy HD",
+"id": 992,
+"logo": "http://i.tvcluboficial.com/universal_comedy.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "TruTV",
+"id": 949,
+"logo": "http://i.tvcluboficial.com/trutv.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "ESPN 4 | Sur",
+"id": 1069,
+"logo": "http://i.tvcluboficial.com/espn4.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "Estrella TV",
+"id": 409,
+"logo": "http://i.tvcluboficial.com/estrellatv.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "Universal Cinema HD",
+"id": 988,
+"logo": "http://i.tvcluboficial.com/universal_cinema.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "ESPN HD | Colombia",
+"id": 1161,
+"logo": "http://i.tvcluboficial.com/espn.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "AZ Corazon",
+"id": 66,
+"logo": "http://i.tvcluboficial.com/azcorazon.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "ITV Deportes",
+"id": 1095,
+"logo": "http://i.tvcluboficial.com/itv.png",
+"actividad": "RepromagmatvActivity"
+}
+]
+},
+{
+"name": "HD",
+"channels": [
+{
+"name": "Tlnovelas HD",
+"id": 915,
+"logo": "http://i.tvcluboficial.com/tlnovelas.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "Universal HD",
+"id": 998,
+"logo": "http://i.tvcluboficial.com/universal.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "AXN HD",
+"id": 58,
+"logo": "http://i.tvcluboficial.com/axn.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "HBO HD",
+"id": 527,
+"logo": "http://i.tvcluboficial.com/hbo.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "TNT Series HD",
+"id": 933,
+"logo": "http://i.tvcluboficial.com/tntseries.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "Discovery Turbo HD",
+"id": 275,
+"logo": "http://i.tvcluboficial.com/discoveryturbo.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "Space HD",
+"id": 826,
+"logo": "http://i.tvcluboficial.com/space.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "History Channel HD",
+"id": 560,
+"logo": "http://i.tvcluboficial.com/history.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "Cinemax HD",
+"id": 196,
+"logo": "http://i.tvcluboficial.com/cinemax.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "HBO 2 HD",
+"id": 520,
+"logo": "http://i.tvcluboficial.com/hbo2.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "Discovery Channel HD",
+"id": 251,
+"logo": "http://i.tvcluboficial.com/discoverychannel.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "Discovery H&H HD",
+"id": 258,
+"logo": "http://i.tvcluboficial.com/discoveryhh.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "Azteca Uno HD",
+"id": 78,
+"logo": "http://i.tvcluboficial.com/azteca1.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "Telemundo HD",
+"id": 889,
+"logo": "http://i.tvcluboficial.com/telemundo.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "TNT HD",
+"id": 926,
+"logo": "http://i.tvcluboficial.com/tnt.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "ESPN 3 HD",
+"id": 386,
+"logo": "http://i.tvcluboficial.com/espn3.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "Discovery Kids HD",
+"id": 266,
+"logo": "http://i.tvcluboficial.com/discoverykids.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "ESPN HD",
+"id": 400,
+"logo": "http://i.tvcluboficial.com/espn.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "Win Sports + HD",
+"id": 1042,
+"logo": "http://i.tvcluboficial.com/winsportsplus.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "AMC HD",
+"id": 33,
+"logo": "http://i.tvcluboficial.com/amc.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "Azteca 7 HD",
+"id": 74,
+"logo": "http://i.tvcluboficial.com/azteca7.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "HBO Plus Oeste HD",
+"id": 536,
+"logo": "http://i.tvcluboficial.com/hboplus.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "Nick HD",
+"id": 728,
+"logo": "http://i.tvcluboficial.com/nick.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "Golden HD",
+"id": 497,
+"logo": "http://i.tvcluboficial.com/golden.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "Star Channel HD",
+"id": 834,
+"logo": "http://i.tvcluboficial.com/star.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "Win Sports HD",
+"id": 1044,
+"logo": "http://i.tvcluboficial.com/winsports.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "FX HD",
+"id": 477,
+"logo": "http://i.tvcluboficial.com/fx.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "Fox Sports 2 | HD",
+"id": 439,
+"logo": "http://i.tvcluboficial.com/foxsports2.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "Movistar LaLiga HD",
+"id": 668,
+"logo": "http://i.tvcluboficial.com/movistar_laliga.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "De Pelicula Plus HD",
+"id": 239,
+"logo": "http://i.tvcluboficial.com/dpeliculaplus.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "Film & Arts HD (EN)",
+"id": 420,
+"logo": "http://i.tvcluboficial.com/filmarts.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "Studio Universal HD",
+"id": 848,
+"logo": "http://i.tvcluboficial.com/studiouniversal.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "CDF Premium HD",
+"id": 143,
+"logo": "http://i.tvcluboficial.com/cdfpremium.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "E! HD",
+"id": 336,
+"logo": "http://i.tvcluboficial.com/e.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "Nat Geo HD",
+"id": 706,
+"logo": "http://i.tvcluboficial.com/natgeo.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "Paramount HD",
+"id": 753,
+"logo": "http://i.tvcluboficial.com/paramount.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "Canal 5 HD",
+"id": 108,
+"logo": "http://i.tvcluboficial.com/canal5.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "Bandamax HD",
+"id": 84,
+"logo": "http://i.tvcluboficial.com/bandamax.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "Starz HD",
+"id": 844,
+"logo": "http://i.tvcluboficial.com/starz_hd.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "Star Channel HD",
+"id": 835,
+"logo": "http://i.tvcluboficial.com/star.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "Cinecanal HD",
+"id": 188,
+"logo": "http://i.tvcluboficial.com/cinecanal.png",
+"actividad": "RepromagmatvActivity"
+}
+]
+},
+{
+"name": "Nacionales",
+"channels": [
+{
+"name": "Caracol | Colombia",
+"id": 126,
+"logo": "http://i.tvcluboficial.com/caracol.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "America TV | Peru",
+"id": 35,
+"logo": "http://i.tvcluboficial.com/americaperu.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "Latina | Peru",
+"id": 765,
+"logo": "http://i.tvcluboficial.com/latinatv.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "Ecuavisa | Ecuador",
+"id": 338,
+"logo": "http://i.tvcluboficial.com/ecuavisa.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "RCN HD | Colombia",
+"id": 1146,
+"logo": "http://i.tvcluboficial.com/rcn.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "Tele",
+"id": 866,
+"logo": "http://i.tvcluboficial.com/play.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "Canal 2 | El Salvador",
+"id": 1078,
+"logo": "http://i.tvcluboficial.com/sa_canal2.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "Canal 6 | Costa Rica",
+"id": 1084,
+"logo": "http://i.tvcluboficial.com/cr_canal6.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "ATV | Peru",
+"id": 1063,
+"logo": "http://i.tvcluboficial.com/pe_atv.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "Guatevision",
+"id": 1089,
+"logo": "http://i.tvcluboficial.com/guatevision.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "Canal 2 | Nicaragua",
+"id": 1075,
+"logo": "http://i.tvcluboficial.com/ni_canal2.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "Teletica (Canal 7) | Costa Rica",
+"id": 1073,
+"logo": "http://i.tvcluboficial.com/cr_teletica.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "RPC Panama",
+"id": 1158,
+"logo": "http://i.tvcluboficial.com/pa_rpc.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "Trece",
+"id": 943,
+"logo": "http://i.tvcluboficial.com/trece_colombia.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "Gamavision",
+"id": 483,
+"logo": "http://i.tvcluboficial.com/gamavision.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "Canal Uno (1) | Colombia",
+"id": 1014,
+"logo": "http://i.tvcluboficial.com/co_uno.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "RTS | Ecuador",
+"id": 1090,
+"logo": "http://i.tvcluboficial.com/ec_rts.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "RCN Novelas",
+"id": 788,
+"logo": "http://i.tvcluboficial.com/rcnnovelas.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "Canal 5 Honduras",
+"id": 109,
+"logo": "http://i.tvcluboficial.com/ho_canal5.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "TeleAmazonas | Ecuador",
+"id": 867,
+"logo": "http://i.tvcluboficial.com/teleamazonas.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "Canal 10 | Nicaragua",
+"id": 1076,
+"logo": "http://i.tvcluboficial.com/ni_canal10.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "TigoSports | Costa Rica",
+"id": 1077,
+"logo": "http://i.tvcluboficial.com/tigosports.png",
+"actividad": "RepromagmatvActivity"
+}
+]
+},
+{
+"name": "Peliculas",
+"channels": [
+{
+"name": "HBO",
+"id": 512,
+"logo": "http://i.tvcluboficial.com/hbo.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "Space",
+"id": 823,
+"logo": "http://i.tvcluboficial.com/space.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "HBO Family",
+"id": 525,
+"logo": "http://i.tvcluboficial.com/hbofamily.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "HBO Xtreme",
+"id": 543,
+"logo": "http://i.tvcluboficial.com/hboxtreme.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "HBO 2",
+"id": 518,
+"logo": "http://i.tvcluboficial.com/hbo2.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "Cinemax",
+"id": 190,
+"logo": "http://i.tvcluboficial.com/cinemax.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "TNT",
+"id": 921,
+"logo": "http://i.tvcluboficial.com/tnt.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "Universal Channel",
+"id": 984,
+"logo": "http://i.tvcluboficial.com/universal.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "Golden Edge",
+"id": 495,
+"logo": "http://i.tvcluboficial.com/goldenedge.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "HBO Xtreme HD",
+"id": 545,
+"logo": "http://i.tvcluboficial.com/hboxtreme.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "Golden",
+"id": 494,
+"logo": "http://i.tvcluboficial.com/golden.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "Studio Universal",
+"id": 845,
+"logo": "http://i.tvcluboficial.com/studiouniversal.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "HBO Mundi",
+"id": 1101,
+"logo": "https://i.tvcluboficial.com/hbomundi.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "Movie Max",
+"id": 660,
+"logo": "http://i.tvcluboficial.com/moviemax.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "Starz Encore Action",
+"id": 841,
+"logo": "http://i.tvcluboficial.com/starz_encoreaction.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "TCM",
+"id": 862,
+"logo": "http://i.tvcluboficial.com/tcm.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "HBO Plus",
+"id": 531,
+"logo": "http://i.tvcluboficial.com/hboplus.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "Cinecanal",
+"id": 185,
+"logo": "http://i.tvcluboficial.com/cinecanal.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "DHE",
+"id": 242,
+"logo": "http://i.tvcluboficial.com/dhe.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "Cine Latino",
+"id": 173,
+"logo": "http://i.tvcluboficial.com/cinelatino.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "Starz Cinema",
+"id": 839,
+"logo": "http://i.tvcluboficial.com/starz_cinema.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "Starz Encore Family",
+"id": 843,
+"logo": "http://i.tvcluboficial.com/starz_encorefamily.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "SyFy (ES) HD",
+"id": 856,
+"logo": "http://i.tvcluboficial.com/syfy.png",
+"actividad": "RepromagmatvActivity"
+}
+]
+},
+{
+"name": "Infantiles",
+"channels": [
+{
+"name": "Cartoon Network",
+"id": 128,
+"logo": "http://i.tvcluboficial.com/cartoonnetwork.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "Disney Channel",
+"id": 280,
+"logo": "http://i.tvcluboficial.com/disneychannel.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "Tooncast",
+"id": 941,
+"logo": "http://i.tvcluboficial.com/tooncast.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "Nick Toons",
+"id": 735,
+"logo": "http://i.tvcluboficial.com/nicktoons.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "Discovery Kids",
+"id": 264,
+"logo": "http://i.tvcluboficial.com/discoverykids.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "Nickelodeon",
+"id": 736,
+"logo": "http://i.tvcluboficial.com/nickelodeon.png",
+"actividad": "RepromagmatvActivity"
+}
+]
+},
+{
+"name": "Cine 24/7",
+"channels": [
+{
+"name": "Cine Accion ",
+"id": 157,
+"logo": "http://i.tvcluboficial.com/cine247.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "Cine Terror",
+"id": 180,
+"logo": "http://i.tvcluboficial.com/cine247.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "Cine Infantil Sagas HD",
+"id": 172,
+"logo": "http://i.tvcluboficial.com/cine247.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "Cine Zombis",
+"id": 183,
+"logo": "http://i.tvcluboficial.com/cine247.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "Cine Comedia 2",
+"id": 163,
+"logo": "http://i.tvcluboficial.com/cine247.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "Cine Terror HD",
+"id": 181,
+"logo": "http://i.tvcluboficial.com/cine247.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "Cine Zombis HD",
+"id": 184,
+"logo": "http://i.tvcluboficial.com/cine247.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "Cine Accion Sagas HD",
+"id": 160,
+"logo": "http://i.tvcluboficial.com/cine247.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "Cine Ficcion/Fantasia 2 HD",
+"id": 167,
+"logo": "http://i.tvcluboficial.com/cine247.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "Cine Comedia",
+"id": 161,
+"logo": "http://i.tvcluboficial.com/cine247.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "Cine Romance HD",
+"id": 179,
+"logo": "http://i.tvcluboficial.com/cine247.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "Cine Ficcion/Fantasia HD",
+"id": 168,
+"logo": "http://i.tvcluboficial.com/cine247.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "Cine Ficcion/Fantasia 2",
+"id": 166,
+"logo": "http://i.tvcluboficial.com/cine247.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "Cine Ficcion/Fantasia",
+"id": 165,
+"logo": "http://i.tvcluboficial.com/cine247.png",
+"actividad": "RepromagmatvActivity"
+}
+]
+},
+{
+"name": "Cultura",
+"channels": [
+{
+"name": "Discovery H&H",
+"id": 254,
+"logo": "http://i.tvcluboficial.com/discoveryhh.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "History Channel",
+"id": 558,
+"logo": "http://i.tvcluboficial.com/history.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "Discovery Theater HD",
+"id": 271,
+"logo": "http://i.tvcluboficial.com/discoverytheater.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "Investigation Discovery",
+"id": 579,
+"logo": "http://i.tvcluboficial.com/investigationdiscovery.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "DW",
+"id": 1091,
+"logo": "http://i.tvcluboficial.com/dw.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "Discovery SCI",
+"id": 267,
+"logo": "http://i.tvcluboficial.com/discoverysci.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "Discovery Civilization",
+"id": 252,
+"logo": "http://i.tvcluboficial.com/discoverycivilization.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "H2",
+"id": 509,
+"logo": "http://i.tvcluboficial.com/h2.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "Nat Geo Wild",
+"id": 709,
+"logo": "http://i.tvcluboficial.com/natgeowild.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "Discovery World",
+"id": 276,
+"logo": "http://i.tvcluboficial.com/discoveryworld.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "Discovery Turbo",
+"id": 274,
+"logo": "http://i.tvcluboficial.com/discoveryturbo.png",
+"actividad": "RepromagmatvActivity"
+}
+]
+},
+{
+"name": "Noticias",
+"channels": [
+{
+"name": "ADN 40",
+"id": 20,
+"logo": "http://i.tvcluboficial.com/adn40.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "Foro TV",
+"id": 429,
+"logo": "http://i.tvcluboficial.com/forotv.png",
+"actividad": "RepromagmatvActivity"
+}
+]
+},
+{
+"name": "España",
+"channels": [
+{
+"name": "Historia (ES)",
+"id": 554,
+"logo": "http://i.tvcluboficial.com/history.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "Antena 3",
+"id": 45,
+"logo": "http://i.tvcluboficial.com/antena3.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "La Sexta HD",
+"id": 603,
+"logo": "http://i.tvcluboficial.com/lasexta.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "A3Series",
+"id": 17,
+"logo": "http://i.tvcluboficial.com/a3series.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "La 2 HD",
+"id": 589,
+"logo": "http://i.tvcluboficial.com/la2hd.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "AXN WHITE HD (ES)",
+"id": 61,
+"logo": "http://i.tvcluboficial.com/axn.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "Movistar Comedia",
+"id": 663,
+"logo": "http://i.tvcluboficial.com/movistar_comedia.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "A3Cine",
+"id": 14,
+"logo": "http://i.tvcluboficial.com/a3cine.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "Movistar Cine Ñ",
+"id": 662,
+"logo": "http://i.tvcluboficial.com/movistar_comedia.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "Comedy Central (ES)",
+"id": 219,
+"logo": "http://i.tvcluboficial.com/comedycentral.png",
+"actividad": "RepromagmatvActivity"
+}
+]
+},
+{
+"name": "Religion",
+"channels": [
+{
+"name": "Maria Vision",
+"id": 1097,
+"logo": "http://i.tvcluboficial.com/mariavision.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "Enlace",
+"id": 1092,
+"logo": "http://i.tvcluboficial.com/enlace.png",
+"actividad": "RepromagmatvActivity"
+}
+]
+},
+{
+"name": "Musica",
+"channels": [
+{
+"name": "Bandamax",
+"id": 83,
+"logo": "http://i.tvcluboficial.com/bandamax.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "MTV Live",
+"id": 683,
+"logo": "http://i.tvcluboficial.com/mtvlive.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "HTV",
+"id": 568,
+"logo": "http://i.tvcluboficial.com/htv.png",
+"actividad": "RepromagmatvActivity"
+}
+]
+},
+{
+"name": "Sin categoría",
+"channels": [
+{
+"name": "Canal 5",
+"id": 106,
+"logo": "http://i.tvcluboficial.com/canal5.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "Azteca 7",
+"id": 72,
+"logo": "http://i.tvcluboficial.com/azteca7.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "Formula 1 TV (F1)",
+"id": 426,
+"logo": "http://i.tvcluboficial.com/f1.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "A+",
+"id": 9,
+"logo": "http://i.tvcluboficial.com/aplus.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "Fox Sports Premium ",
+"id": 461,
+"logo": "http://i.tvcluboficial.com/foxsportspremium.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "Gala TV",
+"id": 481,
+"logo": "http://i.tvcluboficial.com/galatv.png",
+"actividad": "RepromagmatvActivity"
+}
+]
+},
+{
+"name": "USA",
+"channels": [
+{
+"name": "FS1 USA HD",
+"id": 471,
+"logo": "http://i.tvcluboficial.com/fs1.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "NBC Universo",
+"id": 714,
+"logo": "http://i.tvcluboficial.com/nbcuniverso.png",
+"actividad": "RepromagmatvActivity"
+},
+{
+"name": "NHL Network",
+"id": 723,
+"logo": "http://i.tvcluboficial.com/nhl.png",
+"actividad": "RepromagmatvActivity"
+}
+]
+}
+]
+}
