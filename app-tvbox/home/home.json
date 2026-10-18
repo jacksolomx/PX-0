@@ -1,0 +1,32 @@
+{
+"categories": [
+{
+"name": "TV EN VIVO",
+"icon": "sololivetv",
+"category_icon": "icon_tv",
+"activity": "TvActivity",
+"enabled": true
+},
+{
+"name": "EVENTOS DEPORTIVOS",
+"icon": "soloeventosdeportivos",
+"category_icon": "icon_events",
+"activity": "EventsActivity",
+"enabled": true
+},
+{
+"name": "FÚTBOL",
+"icon": "solofutbol",
+"category_icon": "icon_football",
+"activity": "FootballActivity",
+"enabled": true
+},
+{
+"name": "BALONCESTO",
+"icon": "solobaloncesto",
+"category_icon": "icon_basketball",
+"activity": "BasketballActivity",
+"enabled": true
+}
+]
+}
