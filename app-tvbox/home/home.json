@@ -4,14 +4,14 @@
 "name": "TV EN VIVO",
 "icon": "sololivetv",
 "category_icon": "daxlite_livetv",
-"activity": "TvActivity",
+"activity": "TvhdActivity",
 "enabled": true
 },
 {
-"name": "EVENTOS DEPORTIVOS",
+"name": "EVENTOS",
 "icon": "soloeventosdeportivos",
 "category_icon": "daxlite_football",
-"activity": "EventsActivity",
+"activity": "EventosActivity",
 "enabled": true
 },
 {
