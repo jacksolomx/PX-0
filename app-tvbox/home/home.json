@@ -3,29 +3,29 @@
 {
 "name": "TV EN VIVO",
 "icon": "sololivetv",
-"category_icon": "icon_tv",
+"category_icon": "daxlite_livetv",
 "activity": "TvActivity",
 "enabled": true
 },
 {
 "name": "EVENTOS DEPORTIVOS",
 "icon": "soloeventosdeportivos",
-"category_icon": "icon_events",
+"category_icon": "daxlite_football",
 "activity": "EventsActivity",
 "enabled": true
 },
 {
 "name": "FÚTBOL",
 "icon": "solofutbol",
-"category_icon": "icon_football",
-"activity": "FootballActivity",
+"category_icon": "daxlite_football",
+"activity": "MagmatvActivity",
 "enabled": true
 },
 {
 "name": "BALONCESTO",
 "icon": "solobaloncesto",
-"category_icon": "icon_basketball",
-"activity": "BasketballActivity",
+"category_icon": "daxlite_basketball",
+"activity": "BtvcanalesActivity",
 "enabled": true
 }
 ]
